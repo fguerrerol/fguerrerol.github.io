@@ -1,7 +1,7 @@
 ---
-permalink:
-title: "Hasta la puerta de la verdad"
-excerpt: "Sobre mi"
+permalink: /
+title: "Exs"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
