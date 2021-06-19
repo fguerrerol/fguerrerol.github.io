@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Revelando la verdad"
+title: "Sobre mi"
 excerpt: "Sobre mi"
 author_profile: true
 redirect_from: 
