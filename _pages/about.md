@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /fguerrerol.github.io
 title: "Hasta la puerta de la verdad"
 excerpt: "Sobre mi"
 author_profile: true
