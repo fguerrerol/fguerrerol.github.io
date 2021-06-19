@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hola soy Francisco estudiante de la maestria en economia de la Universidad de San Andres,pienso que la transparencia asi como el trabajo en equipo y el poder de tomar decisiones son elementos claves para forjar una mejor sociedad de oportunidades iguales para todos que nos permita alcanzar la frontera del conocimiento.
+Hola soy Francisco estudiante de la maestria en economia de la [Universidad de San Andres](https://udesa.edu.ar),pienso que la transparencia asi como el trabajo en equipo y el poder de tomar decisiones son elementos claves para forjar una mejor sociedad de oportunidades iguales para todos que nos permita alcanzar la frontera del conocimiento.
 
 Experiencias
 ======
